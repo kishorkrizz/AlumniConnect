@@ -3,4 +3,4 @@ node_modules/
 __pycache__/
 media/
 config.py
-README.md
+README.MD
